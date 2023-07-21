@@ -1,3 +1,5 @@
+Deployed on fly.io at https://deepl-proxy.fly.dev/api/v1/translate
+
 # Express API Starter
 
 How to use this template:
